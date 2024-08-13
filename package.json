@@ -1,0 +1,26 @@
+{
+  "name": "create-signature",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bip32": "^4.0.0",
+    "bip39": "^3.1.0",
+    "bip44-constants": "^322.0.0",
+    "bs58check": "^4.0.0",
+    "elliptic": "^6.5.6",
+    "ethereumjs-util": "^7.1.5",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.13.2",
+    "hash.js": "^1.1.7",
+    "js-sha256": "^0.11.0",
+    "js-sha3": "^0.9.3",
+    "near-api-js": "^4.0.3",
+    "viem": "^2.19.3"
+  }
+}
